@@ -1,0 +1,10 @@
+{
+  "queued": 26647,
+  "ack_ok": 26647,
+  "ack_error": 0,
+  "skipped": 724,
+  "reconnect": 0,
+  "bad_json": 0,
+  "duration_seconds": 600.03,
+  "ack_per_second": 44.41
+}

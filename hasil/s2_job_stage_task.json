@@ -1,0 +1,57 @@
+[
+  {
+    "action_group": "S2B_TOP10_WIKI",
+    "jobs": 5,
+    "stages": 7,
+    "tasks_planned": 26,
+    "stage_ids": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ]
+  },
+  {
+    "action_group": "S2B_TOP10_HALAMAN",
+    "jobs": 1,
+    "stages": 2,
+    "tasks_planned": 8,
+    "stage_ids": [
+      22,
+      23
+    ]
+  },
+  {
+    "action_group": "S2B_TOP15_KATA",
+    "jobs": 1,
+    "stages": 2,
+    "tasks_planned": 8,
+    "stage_ids": [
+      24,
+      25
+    ]
+  },
+  {
+    "action_group": "BENCH_reduceByKey",
+    "jobs": 1,
+    "stages": 2,
+    "tasks_planned": 8,
+    "stage_ids": [
+      26,
+      27
+    ]
+  },
+  {
+    "action_group": "BENCH_groupByKey",
+    "jobs": 1,
+    "stages": 2,
+    "tasks_planned": 8,
+    "stage_ids": [
+      28,
+      29
+    ]
+  }
+]

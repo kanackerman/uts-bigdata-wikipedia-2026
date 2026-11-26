@@ -1,0 +1,33 @@
+{
+  "group_id": "uts_s1_pause_0193d94d",
+  "committed_before": {
+    "3": 118004,
+    "0": 127833,
+    "1": 114825,
+    "2": 119959
+  },
+  "added_during_stop": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0
+  },
+  "target_end_after_120s": {
+    "0": 127833,
+    "1": 114825,
+    "2": 119959,
+    "3": 118004
+  },
+  "first_resumed_offset": {},
+  "last_resumed_offset": {},
+  "replayed_offsets": {},
+  "offset_gaps_inside_received": [],
+  "repeated_same_kafka_offset": 0,
+  "repeated_logical_wiki_id": 0,
+  "caught_up_to_pause_target": {
+    "0": false,
+    "1": false,
+    "2": false,
+    "3": false
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "valid_records": 453968,
+  "bad_accumulator": 12,
+  "partition_distribution": [
+    121140,
+    108095,
+    113414,
+    111319
+  ],
+  "top_wikis": [
+    [
+      "wikidatawiki",
+      80784
+    ],
+    [
+      "enwiki",
+      17672
+    ],
+    [
+      "commonswiki",
+      17174
+    ],
+    [
+      "frwiki",
+      3863
+    ],
+    [
+      "dewiki",
+      3719
+    ],
+    [
+      "ruwiki",
+      2163
+    ],
+    [
+      "itwiki",
+      2082
+    ],
+    [
+      "jawiki",
+      1786
+    ],
+    [
+      "eswiki",
+      1464
+    ],
+    [
+      "zhwiki",
+      1343
+    ]
+  ],
+  "top_pages_idwiki": [
+    [
+      "D'Academy (musim 8)",
+      12
+    ],
+    [
+      "Marsada Band",
+      10
+    ],
+    [
+      "Matius Kamuntik",
+      10
+    ],
+    [
+      "Pengguna:Wong Langsep/Layout stasiun",
+      9
+    ],
+    [
+      "Suryimah",
+      7
+    ],
+    [
+      "Pengguna:LiškovBot/Switch",
+      6
+    ],
+    [
+      "Wikipedia:Intervensi pengurus terhadap vandalisme",
+      6
+    ],
+    [
+      "Emil Salim",
+      5
+    ],
+    [
+      "Daftar penghargaan dan nominasi yang diterima oleh Tiara Andini",
+      4
+    ],
+    [
+      "Herawati",
+      4
+    ]
+  ],
+  "top_words_idwiki": [
+    [
+      "altered",
+      84
+    ],
+    [
+      "iabot",
+      84
+    ],
+    [
+      "needing",
+      84
+    ],
+    [
+      "notification",
+      84
+    ],
+    [
+      "review",
+      84
+    ],
+    [
+      "sources",
+      84
+    ],
+    [
+      "suntingan",
+      51
+    ],
+    [
+      "massrollback",
+      50
+    ],
+    [
+      "bot",
+      47
+    ],
+    [
+      "istimewa",
+      38
+    ],
+    [
+      "kontribusi",
+      38
+    ],
+    [
+      "mengembalikan",
+      28
+    ],
+    [
+      "massal",
+      25
+    ],
+    [
+      "secara",
+      25
+    ],
+    [
+      "memperbaiki",
+      19
+    ]
+  ],
+  "logical_duplicate_wiki_id": 0,
+  "benchmark": [
+    {
+      "method": "reduceByKey",
+      "seconds": 12.806,
+      "distinct_wiki": 300,
+      "sum": 151892
+    },
+    {
+      "method": "groupByKey",
+      "seconds": 16.38,
+      "distinct_wiki": 300,
+      "sum": 151892
+    }
+  ]
+}

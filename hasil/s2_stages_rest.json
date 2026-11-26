@@ -1,0 +1,242 @@
+[
+  {
+    "stage": 29,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 13509,
+    "shuffleWriteBytes": 0,
+    "name": "collect at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\1635045463.py:10"
+  },
+  {
+    "stage": 28,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 13509,
+    "name": "groupByKey at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\1635045463.py:10"
+  },
+  {
+    "stage": 27,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 10623,
+    "shuffleWriteBytes": 0,
+    "name": "collect at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\1635045463.py:9"
+  },
+  {
+    "stage": 26,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 10623,
+    "name": "reduceByKey at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\1635045463.py:9"
+  },
+  {
+    "stage": 25,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 8761,
+    "shuffleWriteBytes": 0,
+    "name": "takeOrdered at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\1601356662.py:8"
+  },
+  {
+    "stage": 24,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 8761,
+    "name": "reduceByKey at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\1601356662.py:8"
+  },
+  {
+    "stage": 23,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 9917,
+    "shuffleWriteBytes": 0,
+    "name": "takeOrdered at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\1852788700.py:4"
+  },
+  {
+    "stage": 22,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 9917,
+    "name": "reduceByKey at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\1852788700.py:3"
+  },
+  {
+    "stage": 21,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 10623,
+    "shuffleWriteBytes": 0,
+    "name": "takeOrdered at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\4165376723.py:4"
+  },
+  {
+    "stage": 20,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 10623,
+    "name": "reduceByKey at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\4165376723.py:4"
+  },
+  {
+    "stage": 19,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 0,
+    "name": "collect at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\655573633.py:15"
+  },
+  {
+    "stage": 18,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 0,
+    "name": "count at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\655573633.py:14"
+  },
+  {
+    "stage": 17,
+    "attempt": 0,
+    "numTasks": 2,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 0,
+    "name": "collect at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\3961958608.py:11"
+  },
+  {
+    "stage": 16,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 10623,
+    "shuffleWriteBytes": 0,
+    "name": "takeOrdered at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\4165376723.py:4"
+  },
+  {
+    "stage": 15,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 10623,
+    "name": "reduceByKey at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\4165376723.py:4"
+  },
+  {
+    "stage": 14,
+    "attempt": 0,
+    "numTasks": 2,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 0,
+    "name": "collect at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\395111794.py:23"
+  },
+  {
+    "stage": 13,
+    "attempt": 0,
+    "numTasks": 1,
+    "shuffleReadBytes": 345,
+    "shuffleWriteBytes": 0,
+    "name": "$anonfun$withThreadLocalCaptured$2 at CompletableFuture.java:1768"
+  },
+  {
+    "stage": 12,
+    "attempt": 0,
+    "numTasks": 6,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 0,
+    "name": "$anonfun$withThreadLocalCaptured$2 at CompletableFuture.java:1768"
+  },
+  {
+    "stage": 11,
+    "attempt": 0,
+    "numTasks": 6,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 345,
+    "name": "$anonfun$withThreadLocalCaptured$2 at CompletableFuture.java:1768"
+  },
+  {
+    "stage": 10,
+    "attempt": 0,
+    "numTasks": 2,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 0,
+    "name": "collect at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\3230126072.py:27"
+  },
+  {
+    "stage": 9,
+    "attempt": 0,
+    "numTasks": 1,
+    "shuffleReadBytes": 345,
+    "shuffleWriteBytes": 0,
+    "name": "$anonfun$withThreadLocalCaptured$2 at CompletableFuture.java:1768"
+  },
+  {
+    "stage": 8,
+    "attempt": 0,
+    "numTasks": 6,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 0,
+    "name": "$anonfun$withThreadLocalCaptured$2 at CompletableFuture.java:1768"
+  },
+  {
+    "stage": 7,
+    "attempt": 0,
+    "numTasks": 6,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 345,
+    "name": "$anonfun$withThreadLocalCaptured$2 at CompletableFuture.java:1768"
+  },
+  {
+    "stage": 6,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 0,
+    "name": "count at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\655573633.py:14"
+  },
+  {
+    "stage": 5,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 0,
+    "name": "collect at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\655573633.py:15"
+  },
+  {
+    "stage": 4,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 0,
+    "name": "count at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\655573633.py:14"
+  },
+  {
+    "stage": 3,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 0,
+    "name": "collect at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\655573633.py:15"
+  },
+  {
+    "stage": 2,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 0,
+    "name": "count at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\655573633.py:14"
+  },
+  {
+    "stage": 1,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 0,
+    "name": "collect at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\655573633.py:15"
+  },
+  {
+    "stage": 0,
+    "attempt": 0,
+    "numTasks": 4,
+    "shuffleReadBytes": 0,
+    "shuffleWriteBytes": 0,
+    "name": "count at C:\\Users\\ASUS\\AppData\\Local\\Temp\\ipykernel_3104\\655573633.py:14"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "method": "reduceByKey",
+    "seconds": 12.806,
+    "distinct_wiki": 300,
+    "sum": 151892
+  },
+  {
+    "method": "groupByKey",
+    "seconds": 16.38,
+    "distinct_wiki": 300,
+    "sum": 151892
+  }
+]

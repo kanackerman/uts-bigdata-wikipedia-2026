@@ -1,0 +1,11 @@
+{
+  "interval_seconds": 30.00361850002082,
+  "per_partition": {
+    "0": 0,
+    "1": 0,
+    "2": 0,
+    "3": 0
+  },
+  "messages_added": 0,
+  "rate_messages_sec": 0.0
+}

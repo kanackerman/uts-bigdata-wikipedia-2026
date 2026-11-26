@@ -1,0 +1,14 @@
+[
+  {
+    "shuffle_partitions": 200,
+    "duration_seconds": 203.498,
+    "groups": 344,
+    "total": 453974
+  },
+  {
+    "shuffle_partitions": 16,
+    "duration_seconds": 214.725,
+    "groups": 344,
+    "total": 453974
+  }
+]
